@@ -1,4 +1,4 @@
-package exp_1;
+//package exp_1;
 import java.util.Scanner;
 public class j2_sumdigit {
     public static void main(String[] args) {
