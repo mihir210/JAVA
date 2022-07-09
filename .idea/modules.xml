@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JAVA.iml" filepath="$PROJECT_DIR$/JAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_calculator/java_calculator.iml" filepath="$PROJECT_DIR$/java_calculator/java_calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_calcutator/java_calcutator.iml" filepath="$PROJECT_DIR$/java_calcutator/java_calcutator.iml" />
     </modules>
   </component>
 </project>

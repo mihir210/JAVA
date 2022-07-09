@@ -6,6 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/exp_1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/exp_2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/extra_test" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tut_course_harry" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea" />
     </content>
     <orderEntry type="jdk" jdkName="18" jdkType="JavaSDK" />
