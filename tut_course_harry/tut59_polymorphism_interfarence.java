@@ -11,7 +11,7 @@ public class tut59_polymorphism_interfarence {
 
     static class cellphone{
         void call(int no){
-            System.out.println("calling"  + no);
+            System.out.println("calling..."  + no);
         }
 
     }
